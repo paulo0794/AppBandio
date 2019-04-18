@@ -6,4 +6,5 @@
     <color name="backgroundColor">#B02745</color>
     <color name="textColor">#FFFFFF</color>
     <color name="buttonColor">#FF1545</color>
+    <color name="backgroundCamera">#FF1545</color>
 </resources>

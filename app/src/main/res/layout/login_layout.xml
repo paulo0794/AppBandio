@@ -33,11 +33,10 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
-        android:hint="Password"
-        android:textColorHint="@color/textColor"
         android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
         android:drawableRight="@drawable/ic_help_outline_black_24dp"
-        />
+        android:hint="Password"
+        android:textColorHint="@color/textColor" />
 
     <ImageButton
         android:layout_width="200dp"
@@ -55,8 +54,6 @@
         android:text="Don't have an account? Sing Up"
         android:textColor="@color/textColor"
         android:textSize="20dp" />
-
-
 
 
 </LinearLayout>
